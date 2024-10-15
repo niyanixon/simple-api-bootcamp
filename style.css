@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(140, 88, 27);
+    text-align: center;
+    
+}
+h1,h2{
+    background: rgb(255, 204, 146);
+    color: rgb(140, 88, 27);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 40px;
+    font-size: 50px;
+}
+button{
+    height: 70px;
+    width: 40%;
+    background-color: rgb(225, 176, 120);
+    font-size: 30px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+img{
+    height: 700px;
+}
